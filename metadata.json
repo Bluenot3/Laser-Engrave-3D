@@ -1,0 +1,5 @@
+{
+  "name": "ZEN Laser Engraver",
+  "description": "An interactive 3D web application that simulates laser engraving on various glass and crystal surfaces. Customize materials, lighting, and engraving parameters to create stunning visual effects.",
+  "requestFramePermissions": []
+}
